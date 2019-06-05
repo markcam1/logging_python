@@ -4,19 +4,17 @@ python logging boilerplate
 
 **main.py**
 ---------------------------
-| import logging_local.py |
+import logging_local.py 
 ---------------------------
 
-          ^
-          |
+
 
 **logging_local.py**
 ---------------------------
 | import logging.yaml     |
 ---------------------------
 
-          ^
-          |
+
 
 **logging.yaml**
 ---------------------------
