@@ -16,13 +16,7 @@ python logging boilerplate
 
 
 
-**logging.yaml**
----------------------------
+|**logging.yaml**|
+|---------------------------|
 | 1. error level          |
 | 2. handlers             |
----------------------------
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
