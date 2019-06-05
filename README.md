@@ -22,3 +22,8 @@ python logging boilerplate
 | 1. error level          |
 | 2. handlers             |
 ---------------------------
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
