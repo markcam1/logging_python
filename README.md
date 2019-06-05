@@ -3,8 +3,9 @@ python logging boilerplate
 
 
 **main.py**
+||
 ---------------------------
-import logging_local.py 
+|import logging_local.py| 
 ---------------------------
 
 
