@@ -3,7 +3,8 @@ python logging boilerplate
 
 
 **main.py**
-||
+
+|dfafdf|
 |-----------------------|
 |import logging_local.py| 
 
