@@ -2,18 +2,17 @@
 python logging boilerplate
 
 
-**main.py**
 
-|dfafdf|
+
+|**main.py**|
 |-----------------------|
 |import logging_local.py| 
 
 
 
-**logging_local.py**
----------------------------
+|**logging_local.py**|
+|---------------------------|
 | import logging.yaml     |
----------------------------
 
 
 
